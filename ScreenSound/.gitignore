@@ -1,0 +1,11 @@
+﻿# Segredos e Configurações
+appsettings.json
+appsettings.Development.json
+
+# Pastas de compilação
+bin/
+obj/
+
+# Arquivos do Visual Studio
+.vs/
+*.user
