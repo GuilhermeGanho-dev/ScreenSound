@@ -22,4 +22,4 @@ Para rodar este projeto, você precisará ter o SDK do .NET instalado e uma chav
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/GuilhermeGanho-dev/ScreenSound.git
+   git clone https://github.com/ganhodev/ScreenSound.git
